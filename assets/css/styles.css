@@ -230,9 +230,10 @@ img{
   color: var(--first-color);
 }
 .home__img{
+  
   position: absolute;
-  right: 0;
-  bottom: 0;
+  right: 25px;
+  bottom: 120px;
   width: 275px;
 }
 
