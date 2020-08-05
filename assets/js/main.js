@@ -14,10 +14,6 @@ showMenu('nav-toggle','nav-menu')
 /*===== ACTIVE AND REMOVE MENU =====*/
 const navLink = document.querySelectorAll('.nav__link');   
 
-document.getElementById('themeSwitch').addEventListener('change', function(event){
-    (event.target.checked) ? document.body.setAttribute('data-theme', 'dark') : document.body.removeAttribute('data-theme');
-  });
-
 function linkAction(){
   /*Active link*/
   navLink.forEach(n => n.classList.remove('active'));
