@@ -64,7 +64,7 @@ body{
   font-family: var(--body-font);
   font-size: var(--normal-font-size);
   color: var(--third-color);
-  background-color: #093C4B;
+  background-color: #031318;
 }
 
 h1,h2,p{
@@ -235,6 +235,12 @@ img{
   right: 25px;
   bottom: 40px;
   width: 275px;
+  padding: 10px;
+  border: 5px solid  #b3e231;
+  display: block;
+  border-radius: 275px;
+  box-sizing: border-box;
+  
 }
 
 .home__skills{
