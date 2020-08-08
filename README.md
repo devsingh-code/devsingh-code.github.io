@@ -9,13 +9,13 @@ This my portfolio repo whihc is live at <a href="https://devsingh-code.github.io
 # Home Page
 
 <p align="center">
-<img src="https://github.com/devsingh-code/devsingh-code.github.io/tree/master/assets/img/Landing_page.jpg">
+<img src="https://github.com/devsingh-code/devsingh-code.github.io/blob/master/assets/img/Landing_page.jpg">
 </p>
 
 # About & Skills
 
 <p align="center">
-<img src="https://github.com/devsingh-code/devsingh-code.github.io/tree/master/assets/img/Aboutnskills.jpg">
+<img src="https://github.com/devsingh-code/devsingh-code.github.io/blob/master/assets/img/Aboutnskills.jpg">
 </p>
 
 
