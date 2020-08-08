@@ -255,6 +255,7 @@ img{
   padding: .75rem 2.5rem;
   font-weight: var(--font-semi);
   border-radius: .5rem;
+  margin-left: .5rem;
 }
 .button:hover{
   box-shadow: 0 10px 36px rgba(0,0,0,.15);
@@ -346,11 +347,14 @@ img{
 /* ===== WORK =====*/
 .work__container{
   row-gap: 2rem;
+  
 }
 .work__img{
-  box-shadow: 0 4px 25px rgba(14,36,49,.15);
+  box-shadow: 0 4px 25px rgba(205, 221, 231, 0.15);
   border-radius: .5rem;
   overflow: hidden;
+  padding: 5px;
+  border: 1px solid  #b3e231;
 }
 .work__img img{
   transition: 1s;
