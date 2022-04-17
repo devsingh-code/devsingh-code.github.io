@@ -4,7 +4,7 @@ Hi,
 
 This project is made using HTML, Bootstrap4 and Vanilla JS.
 
-This my portfolio repo whihc is live at <a href="https://devsingh-code.github.io/">My Portfolio</a>
+This my portfolio repo which is live at <a href="https://devsingh-code.github.io/">My Portfolio</a>
 
 # Home Page
 
