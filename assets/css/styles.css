@@ -350,11 +350,11 @@ img{
   
 }
 .work__img{
-  box-shadow: 0 4px 25px rgba(205, 221, 231, 0.15);
+  
   border-radius: .5rem;
   overflow: hidden;
   padding: 5px;
-  border: 1px solid  #b3e231;
+  
 }
 .work__img img{
   transition: 1s;
@@ -470,9 +470,7 @@ img{
     width: 300px;
   }
   .work__container{
-    grid-template-columns: repeat(3, 1fr);
-    grid-template-rows: repeat(2,1fr);
-    column-gap: 2rem;
+    
   }
   .contact__form{
     width: 360px;
